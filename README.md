@@ -1,6 +1,6 @@
 # Red-Wine-Prediction
 
-It Prediction the Quality of th wine using the Dataset
+It Prediction the Quality of the wine using the Dataset
 ## Prerequisites
 
 - Python 3.10.10 installed on your system.
