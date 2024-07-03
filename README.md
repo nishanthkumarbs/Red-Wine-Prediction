@@ -16,3 +16,10 @@ It Prediction the Quality of the wine using the Dataset
   pip install numpy pandas matplotlib seaborn scikit-learn
 
   ```
+  **Clone the Repository**
+
+   Clone this repository to your local machine:
+   ```
+   git clone https://github.com/nishanthkumarbs/Red-Wine-Prediction.git
+   cd Red-Wine-Prediction
+   ```
