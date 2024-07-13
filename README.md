@@ -23,3 +23,9 @@ It Prediction the Quality of the wine using the Dataset
    git clone https://github.com/nishanthkumarbs/Red-Wine-Prediction.git
    cd Red-Wine-Prediction
    ```
+## Contributing
+
+Feel free to fork this project and submit pull requests. Any contributions are welcome!
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
